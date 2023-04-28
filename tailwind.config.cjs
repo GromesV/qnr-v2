@@ -6,6 +6,9 @@ const config = {
   
 	theme: {
 	  extend: {},
+	  fontFamily : {
+		sans: ['IBM Plex Sans', 'sans-serif']
+	  }
 	},
   
 	plugins: [
